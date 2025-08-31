@@ -1,16 +1,68 @@
-## Hi there 👋
+# Hi, I'm Mohammad Kassem 👋  
+### Automation and Machine Learning Engineer  
 
-<!--
-**M-KASSEM/M-KASSEM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📍 Gothenburg, Sweden  
+📫 [Email](mailto:mohammad.kassem.se@gmail.com) • [LinkedIn](https://linkedin.com/in/mohammad-kassem-78749658)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+I’m a Mechatronics and Automation engineer with hands-on experience in **machine learning for automotive safety** and a strong foundation in **control systems, embedded development, and intelligent automation**.  
+Passionate about deploying **deep learning** and **automation tools** to build real-world engineering solutions.
+
+---
+
+## 🎓 Education
+- **M.Sc. Mechatronics and Automation Engineering**  
+  *Chalmers University of Technology (2023 – 2025)*  
+  *Key Courses: Robotics, Automation Control, Deep Machine Learning*  
+
+- **B.Sc. Mechatronics Engineering**  
+  *Chalmers University of Technology (2020 – 2023)*  
+  *Key Courses: Control Systems, Machine Learning, Electronics, Embedded Systems*  
+
+---
+
+## 💼 Experience
+- **Master’s Thesis @ Volvo Cars (2025)**  
+  *Machine Learning for Occupant Classification*  
+  - Built CNN–LSTM models using radar heatmaps for occupant detection.  
+  - Applied clustering and 3D camera data for performance benchmarking.  
+  - Designed preprocessing pipelines and oversampling strategies.  
+  - Delivered real-world deployable models with error analysis tools.  
+
+- **Degree Project @ FlexLink AB / Chalmers (2023)**  
+  *Temperature-Controlled Chamber Design*  
+  - Designed and built a custom chamber (ambient → 100 °C).  
+  - Integrated PID control, thermocouples, relays, and fans.  
+  - Verified stress–strain behavior at elevated temps using tensile tests.  
+
+- **Support & Teaching Roles @ Göteborgs Kommun (2022 – Present)**  
+  - Supported individuals with disabilities in daily routines.  
+  - Substitute teaching: Mathematics, PE, Nutrition.  
+  - Developed adaptability, communication, and problem-solving skills.  
+
+---
+
+## 🛠️ Skills
+- **Programming:** Python, MATLAB, C  
+- **ML/DL:** PyTorch, NumPy  
+- **Tools:** Simulink, Linux, Emacs, Org-mode, LaTeX,
+- **Other:** Embedded systems, control systems, mechanical prototyping  
+
+---
+
+## 🌐 Languages
+- Swedish 🇸🇪  
+- English 🇬🇧  
+
+---
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=M-KASSEM&show_icons=true&theme=default)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=M-KASSEM&layout=compact)
+
+---
+
+## ⚡ Fun Fact
+Before diving into engineering and AI, I worked as a **car mechanic**. I still enjoy hands-on work with machines, carpentry, and welding!
