@@ -1,4 +1,4 @@
-# Hi, I'm Mohammad Kassem 👋  
+# I'm Mohammad Kassem  
 ### Automation and Machine Learning Engineer  
 
 📍 Gothenburg, Sweden  
@@ -51,11 +51,6 @@ Passionate about deploying **deep learning** and **automation tools** to build r
 - English 🇬🇧
 - Arabic **ض**
 
----
-
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=M-KASSEM&show_icons=true&theme=default)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=M-KASSEM&layout=compact)
 
 ---
 
