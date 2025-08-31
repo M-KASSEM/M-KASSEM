@@ -35,26 +35,21 @@ Passionate about deploying **deep learning** and **automation tools** to build r
   *Temperature-Controlled Chamber Design*  
   - Designed and built a custom chamber (ambient → 100 °C).  
   - Integrated PID control, thermocouples, relays, and fans.  
-  - Verified stress–strain behavior at elevated temps using tensile tests.  
-
-- **Support & Teaching Roles @ Göteborgs Kommun (2022 – Present)**  
-  - Supported individuals with disabilities in daily routines.  
-  - Substitute teaching: Mathematics, PE, Nutrition.  
-  - Developed adaptability, communication, and problem-solving skills.  
+  - Verified stress–strain behavior at elevated temps using tensile tests.
 
 ---
 
 ## 🛠️ Skills
-- **Programming:** Python, MATLAB, C  
-- **ML/DL:** PyTorch, NumPy  
-- **Tools:** Simulink, Linux, Emacs, Org-mode, LaTeX,
-- **Other:** Embedded systems, control systems, mechanical prototyping  
+- **Programming:** Python, MATLAB, C/C++  
+- **ML/DL:** PyTorch, NumPy
+- **Tools:** Simulink, Linux, Emacs, Org-mode, LaTeX, Magit(git)
 
 ---
 
 ## 🌐 Languages
 - Swedish 🇸🇪  
-- English 🇬🇧  
+- English 🇬🇧
+- Arabic **ض**
 
 ---
 
